@@ -2,7 +2,7 @@
   "name": "vue-light-bootstrap-dashboard",
   "version": "2.1.0",
   "private": true,
-  "description": "Vue light bootstrap dashboard",
+  "description": "Todo List App",
   "author": "cristijora <joracristi@gmail.com>",
   "scripts": {
     "serve": "vue-cli-service serve --open",
